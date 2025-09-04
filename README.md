@@ -1,17 +1,17 @@
 # Fitpal
 <img width="430" height="350" alt="image" src="https://github.com/user-attachments/assets/e4441738-6531-4505-ac5d-d1b24c18614f" />
 
-## 📌 Descripción (Español)
+## Descripción (Español)
 **Fitpal** es un programa avanzado desarrollado en **Java** con interfaz gráfica en **Swing/WindowBuilder** y conexión a **SQL** para la gestión integral de un gimnasio.  
 Permite registrar y administrar **profesores, clientes, administradores, usuarios, ejercicios y suscripciones** a través de un completo panel de administración.
 
-### ✨ Funcionalidades principales
-- 👨‍🏫 **Profesor**: crear, editar y eliminar ejercicios; gestionar suscripciones.  
-- 👤 **Cliente**: renovar o cancelar su suscripción; crear y personalizar rutinas con ejercicios.  
-- 🛠 **Administrador**: gestionar usuarios, profesores, clientes y datos del sistema.  
-- 🎨 **Interfaz visual completa**, construida con **WindowBuilder en Eclipse**.  
+### Funcionalidades principales
+- **Profesor**: crear, editar y eliminar ejercicios; gestionar suscripciones.  
+- **Cliente**: renovar o cancelar su suscripción; crear y personalizar rutinas con ejercicios.  
+- **Administrador**: gestionar usuarios, profesores, clientes y datos del sistema.  
+- **Interfaz visual completa**, construida con **WindowBuilder en Eclipse**.  
 
-### 🗄 Tecnologías utilizadas
+### Tecnologías utilizadas
 - **Lenguaje**: Java (JDK 17 o superior recomendado)  
 - **IDE**: Eclipse  
 - **Framework UI**: WindowBuilder (Swing)  
@@ -20,17 +20,17 @@ Permite registrar y administrar **profesores, clientes, administradores, usuario
 
 ---
 
-## 📌 Description (English)
+## Description (English)
 **Fitpal** is an advanced application developed in **Java** with a full **Swing/WindowBuilder** graphical interface and **SQL** database integration for comprehensive gym management.  
 It allows registering and managing **trainers, clients, administrators, users, exercises, and subscriptions** through a complete admin panel.
 
-### ✨ Main Features
-- 👨‍🏫 **Trainer**: create, edit, and delete exercises; manage subscriptions.  
-- 👤 **Client**: renew or cancel subscriptions; create and customize workout routines.  
-- 🛠 **Administrator**: manage users, trainers, clients, and system data.  
-- 🎨 **Full visual interface**, built with **WindowBuilder in Eclipse**.  
+### Main Features
+- **Trainer**: create, edit, and delete exercises; manage subscriptions.  
+- **Client**: renew or cancel subscriptions; create and customize workout routines.  
+- **Administrator**: manage users, trainers, clients, and system data.  
+- **Full visual interface**, built with **WindowBuilder in Eclipse**.  
 
-### 🗄 Technologies
+### Technologies
 - **Language**: Java (JDK 17 or later recommended)  
 - **IDE**: Eclipse  
 - **UI Framework**: WindowBuilder (Swing)  
@@ -39,7 +39,7 @@ It allows registering and managing **trainers, clients, administrators, users, e
 
 ---
 
-## 🚀 Instalación / Installation
+## Instalación / Installation
 
 ### Español
 1. Clonar el repositorio:
@@ -66,25 +66,25 @@ It allows registering and managing **trainers, clients, administrators, users, e
    <img width="679" height="685" alt="image" src="https://github.com/user-attachments/assets/5f53c149-160c-4c11-9d51-494e6ba88dee" />
 
 
-📌 Estado del proyecto / Project Status
+Estado del proyecto / Project Status
 
 ### Español
 
-🎓 Proyecto académico finalizado con funcionalidades completas.
+Proyecto académico finalizado con funcionalidades completas.
 
 Listo para demostración y mejora continua.
 
 ### English
 
-🎓 Academic project completed with full functionality.
+Academic project completed with full functionality.
 
 Ready for demonstration and continuous improvement.
 
 
-👨‍💻 Autor / Author
+Autor / Author
 
 Sebastián Garcilazo
 
-📧 sebastian.garcilazo.dev@gmail.com
+sebastian.garcilazo.dev@gmail.com
 
-🔗 LinkedIn
+LinkedIn
