@@ -50,7 +50,7 @@ It allows registering and managing **trainers, clients, administrators, users, e
 4. Configurar la conexión a la base de datos en el archivo de configuración.  
 5. Ejecutar el proyecto desde la clase principal:
    ```bash
-   Main.java
+   MainPanel.java
    ```
 ### English
 1. Clone the repository:
